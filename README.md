@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajyyot
-- 👀 I’m interested in ... Machine learning algorithms, python & eating also 😁
+- 👀 I’m interested in ... Py programming & munching 😁
 - 🌱 I’m currently learning ... adv python & reinforcement 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@kurudprajyotp@gmail.com
